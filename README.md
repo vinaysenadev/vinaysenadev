@@ -1,7 +1,7 @@
-## Hi there 👋
-# 👋 Hi, I'm Vinay Katta
 
-🚀 Senior Frontend Architect | React & Performance Engineering Specialist  
+# 👋 Hi there, I'm Vinay Katta
+
+🚀 Technical lead | React developer & Performance Engineering Specialist  
 🧠 13+ Years Building Scalable Web Applications  
 ⚡ System Design • Performance Optimization • Design Systems  
 🌍 Open to Indian Product Companies & Remote Global Roles  
