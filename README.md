@@ -119,20 +119,6 @@ Research project focused on:
 
 ---
 
-# 📊 GitHub Stats
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskatta&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vskatta&layout=compact)
-
----
-
-# 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vskatta)
-
----
-
 # 📈 Currently Focused On
 
 - Advanced **frontend system design**
@@ -155,10 +141,10 @@ Research project focused on:
 # 📫 Connect With Me
 
 📧 **Email**  
-vinayasenareddykatta@gmail.com  
+vinaysena.dev@gmail.com  
 
 🌐 **Portfolio**  
-https://vinaysena.netlify.app  
+https://vinaysena.vercel.app  
 
 📍 **Location**  
 Hyderabad, India
