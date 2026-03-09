@@ -1,189 +1,168 @@
+# 👋 Hi, I'm Vinay Katta
 
-# 👋 Hi there, I'm Vinay Katta
+🚀 **Technical Lead | Senior React Engineer | Frontend Architect**  
+⚡ Building scalable, high-performance frontend systems
 
-🚀 Technical lead | React developer & Performance Engineering Specialist  
-🧠 13+ Years Building Scalable Web Applications  
-⚡ System Design • Performance Optimization • Design Systems  
-🌍 Open to Indian Product Companies & Remote Global Roles  
+- **15+ years** in software engineering
+- **6+ years specializing in React ecosystem**
+- Focused on **frontend architecture, performance engineering, and scalable design systems**
 
----
-
-## 🧩 About Me
-
-I design and build scalable, high-performance frontend systems for product-based environments.
-
-With 15+ years in software engineering and 6+ years specializing deeply in React ecosystems, I focus on:
-
-- Building reusable, scalable UI architectures
-- Optimizing performance with measurable impact
-- Designing maintainable frontend systems
-- Improving developer experience
-- Mentoring engineers & leading frontend initiatives
-
-I believe frontend is not about components —  
-it’s about systems, performance, and product impact.
+I enjoy designing systems that improve **performance, maintainability, and developer productivity**.
 
 ---
 
-## 💡 What I Bring to Product Teams
+# 🧠 Expertise
 
-- ⚡ Improved application responsiveness by 40% via optimized state management
-- 🚀 Reduced load times by 50% using code splitting & lazy loading
-- 🧱 Built reusable enterprise design systems using Storybook
-- 📊 Implemented performance profiling using React Profiler & Lighthouse
-- 🧠 Integrated AI-assisted workflows (GitHub Copilot) for faster development
-- 👨‍🏫 Mentored 6+ engineers and led code review standards
-
----
-
-## 🏗 Core Expertise
-
-### 🔹 Frontend Architecture
-- Feature-based scalable folder structures
-- Clean API abstraction layers
-- Error boundary patterns
-- Optimistic UI updates
-- Role-based rendering
+### Frontend Architecture
+- React
+- TypeScript
 - Component-driven architecture
+- Scalable folder structures
+- API abstraction layers
+- Error boundary patterns
+- Role-based rendering
 
-### 🔹 Performance Engineering
-- Code splitting & lazy loading
-- Memoization strategies
+### Performance Engineering
+- Code splitting
+- Lazy loading
+- Memoization
 - Virtualized lists
-- Critical rendering path optimization
-- Bundle analysis (Webpack)
 - Lighthouse optimization
+- Bundle analysis
 
-### 🔹 State Management
+### State Management
 - Redux Toolkit
 - Zustand
-- Context API
 - TanStack Query
-- Server vs Client state separation
+- Context API
 
-### 🔹 Design Systems
-- Storybook-driven development
-- Reusable component libraries
-- Theming systems
+### Design Systems
+- Storybook
+- Reusable UI component libraries
 - Accessibility (WCAG)
-- Dark / Light mode support
+- Theming systems
 
-### 🔹 Backend Familiarity
+### Backend Familiarity
 - Node.js
 - Express
 - MongoDB
-- Prisma
-- REST & GraphQL APIs
+- REST APIs
+- GraphQL
 
 ---
 
-## 🧠 Architecture Philosophy
+# 💡 Key Impact
 
-- Build for scale before complexity hits
-- Measure performance before optimizing
-- Reusability > duplication
-- DX (Developer Experience) matters
-- Product thinking over feature thinking
-- Clear documentation enables async teams
+- ⚡ Improved application responsiveness by **40%**
+- 🚀 Reduced page load times by **50%**
+- 🧱 Built **enterprise design systems** with Storybook
+- 📊 Implemented performance monitoring using **React Profiler & Lighthouse**
+- 👨‍🏫 Mentored **6+ engineers** and improved code review standards
 
 ---
 
-## 📌 Featured Projects
+# 🛠 Tech Stack
 
-### 🚀 React Product Architecture
-Production-grade SaaS frontend architecture with:
-- Feature-based structure
-- API layer abstraction
-- Auth flows
-- Role-based access
+### Frontend
+React • TypeScript • JavaScript (ES6+)  
+Tailwind • Material UI • ShadCN • PrimeReact  
+
+### State & Data
+Redux Toolkit • Zustand • TanStack Query • GraphQL  
+
+### Tooling
+Webpack • Babel • ESLint • Jest • Storybook  
+
+### Backend
+Node.js • Express • MongoDB • Prisma  
+
+### Developer Tools
+Git • GitHub • VS Code • Postman • GitHub Copilot
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## React Product Architecture
+Production-grade frontend architecture for scalable SaaS applications including:
+
+- Feature-based folder structure
+- API abstraction layer
+- Authentication flows
+- Role-based access control
 - TanStack Query integration
 - Error boundary handling
 
 ---
 
-### ⚡ Frontend Performance Engineering Lab
-Deep dive into:
-- React Profiler flamegraph analysis
-- Lighthouse optimization
-- Code splitting strategies
-- Bundle size reduction
-- Virtualization techniques
+## Enterprise Design System
+Reusable UI component library built with Storybook.
 
----
+Includes:
 
-### 🧱 Enterprise Design System
-- Storybook component library
-- Scalable theming
 - Accessible components
-- Reusable layout primitives
-- WCAG compliance patterns
+- Scalable theming
+- Layout primitives
+- WCAG compliance
+- Consistent UI patterns
 
 ---
 
-### 🧠 State Management Deep Dive
-Comparative analysis of:
-- Redux Toolkit
-- Zustand
-- Context API
-- Server-state vs client-state tradeoffs
+## Frontend Performance Engineering Lab
+
+Research project focused on:
+
+- React Profiler analysis
+- Lighthouse performance optimization
+- Bundle size reduction
+- Virtualized rendering techniques
 
 ---
 
-### 🌍 Remote-Ready Engineering Playbook
-- PR templates
-- Architecture Decision Records (ADR)
-- Code review standards
-- Async communication practices
-- CI/CD workflow patterns
+# 📊 GitHub Stats
+
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vskatta&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vskatta&layout=compact)
 
 ---
 
-## 🛠 Tech Stack
+# 📈 Contribution Graph
 
-**Frontend**
-React • TypeScript • JavaScript (ES6+) • Tailwind • Material UI • ShadCN • PrimeReact  
-
-**State & Data**
-Redux Toolkit • Zustand • TanStack Query • GraphQL  
-
-**Tooling**
-Webpack • Babel • ESLint • Jest • Storybook  
-
-**Backend (Working Knowledge)**
-Node.js • Express • MongoDB • Prisma  
-
-**Dev Tools**
-Git • GitHub • VS Code • Postman • GitHub Copilot  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vskatta)
 
 ---
 
-## 📈 Currently Focused On
+# 📈 Currently Focused On
 
-- Advanced frontend system design
-- Performance-first architecture
-- AI-assisted engineering workflows
-- Scalable product UI patterns
-- Contributing to open source React ecosystem
-
----
-
-## 🌍 Open To
-
-- Indian product-based companies
-- Global remote SaaS roles
-- Senior Frontend Engineer roles
-- Frontend Architect roles
-- Technical Leadership opportunities
+- Advanced **frontend system design**
+- **Performance-first architecture**
+- **AI-assisted engineering workflows**
+- Scalable **React application architecture**
 
 ---
 
-## 📫 Let's Connect
+# 🌍 Open To Opportunities
 
-📧 vinayasenareddykatta@gmail.com  
-🌐 Portfolio: https://vinaysena.netlify.app  
-📍 Hyderabad, India  
+- Senior Frontend Engineer
+- Frontend Architect
+- Technical Lead
+- Indian product companies
+- Global remote roles
 
 ---
 
-> “Frontend is not about making things look good.  
-> It’s about making systems scale.”
+# 📫 Connect With Me
+
+📧 **Email**  
+vinayasenareddykatta@gmail.com  
+
+🌐 **Portfolio**  
+https://vinaysena.netlify.app  
+
+📍 **Location**  
+Hyderabad, India
+
+---
+
+> **"Frontend is not just about UI — it's about building scalable systems."**
