@@ -12,7 +12,7 @@
 
 I design and build scalable, high-performance frontend systems for product-based environments.
 
-With 13+ years in software engineering and 5+ years specializing deeply in React ecosystems, I focus on:
+With 15+ years in software engineering and 6+ years specializing deeply in React ecosystems, I focus on:
 
 - Building reusable, scalable UI architectures
 - Optimizing performance with measurable impact
